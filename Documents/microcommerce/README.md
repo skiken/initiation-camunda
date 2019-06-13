@@ -1,4 +1,4 @@
-# Creation d'une premeire application avec l'architecture microservices
+# Creation d'une premeire application avec l'architecture microservice
 
 Objectifs : implementation d'une architecure microservice en utilisant l'API rest
 
